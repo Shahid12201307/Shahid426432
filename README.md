@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahid426432
-- 👀 I’m interested in learning new comp languages
+- 👀 I’m interested in learning new computer languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python project
 - 📫 How to reach me shahussain891@gmail.com
