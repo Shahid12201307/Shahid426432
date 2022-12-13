@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahid426432
+- 👋 Hi, I’m @Shahid_12201307
 - 👀 I’m interested in learning new computer languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python project
